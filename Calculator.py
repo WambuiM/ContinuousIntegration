@@ -1,12 +1,12 @@
-"""calculator .py
+"""
+calculator.py
 Calculator library containing basic math operations.
 """
 
-def add(first_term, second_term):
+
+def addition(first_term, second_term):
     return first_term + second_term
 
-def subtract(first_term, second_term):
-    return first_term - second_term
 
-h = 2
-print(2)
+def subtraction(first_term, second_term):
+    return first_term - second_term
